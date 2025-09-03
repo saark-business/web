@@ -3,7 +3,7 @@
 import sameer from "../public/team/sammer.jpg";
 import aditya from "../public/team/adiii.jpg";
 import akanksha from "../public/team/at.jpg";
-import kaushik from "../public/team/k2.jpg";
+import kaushik from "../public/team/1745862779628.jpg";
 import ashish from "../public/team/ashish.jpeg";
 export type TeamMember = {
     id: string;
@@ -34,14 +34,14 @@ export type TeamMember = {
     },
     {
       id: "member-2",
-      name: " Sairam Kaushik",
+      name: " Sandeep Yadav",
       role: "Software Engineer",
       image: kaushik.src,
       bio: " Full-Stack Developer specializing in React, Node.js, and Express.js",
       socialLinks: {
-        twitter: " https://x.com/sai_ram_kaushik",
-        linkedin: "https://www.linkedin.com/in/sairamkaushik/",
-        github: "https://github.com/sai-ram-kaushik",
+        //twitter: " https://x.com/sai_ram_kaushik",
+        linkedin: "https://www.linkedin.com/in/sandeep-yadav-027500219/",
+        github: "https://github.com/sandeepyadav-24",
       },
     },
     {
